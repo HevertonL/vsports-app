@@ -11,6 +11,7 @@ export default {
         brandGreen: "#2dcc6f",
         brandBlue: "#1376f4",
         brandWhite: "#eeeeee",
+        silver: "#f5f5dc",
       },
       container: {
         center: true,
